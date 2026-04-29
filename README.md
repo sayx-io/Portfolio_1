@@ -2,9 +2,6 @@
 
 A high-end, immersive graphic design portfolio website featuring cinematic visuals, smooth transitions, and futuristic storytelling. Built with React, Vite, Tailwind CSS, and Framer Motion.
 
-## 🚀 Live Demo
-
-[View Live Project](https://ais-pre-xilyzpy6ierp5rj4ow5zcm-318744382114.asia-east1.run.app)
 
 ## ✨ Features
 
@@ -56,7 +53,7 @@ A high-end, immersive graphic design portfolio website featuring cinematic visua
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/sayan-designs.git
+   git clone https://github.com/sayx-io/Portfolio_1.git
    ```
 2. Navigate to the project directory:
    ```bash

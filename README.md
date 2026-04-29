@@ -2,6 +2,9 @@
 
 A high-end, immersive graphic design portfolio website featuring cinematic visuals, smooth transitions, and futuristic storytelling. Built with React, Vite, Tailwind CSS, and Framer Motion.
 
+## Live Demo
+   https://portfolio-1-henna-nine.vercel.app/
+
 
 ## ✨ Features
 
@@ -92,5 +95,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 Made with ❤️ by Sayan Designs
-## Deployment Link 
- https://portfolio-1-henna-nine.vercel.app/
+
+ 
